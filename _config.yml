@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Baoliang CHEN (陈宝亮)"
+title                    : "Baoliang CHEN"
 description              : "Postdoc at the Department of Computer Science, City University of Hong Kong. "
 repository               : "Baoliang93/Baoliang93.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "CHEN Baoliang"
+  name             : "Baoliang CHEN (陈宝亮)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "City University of HongKong"
   location         : "HongKong, China"
