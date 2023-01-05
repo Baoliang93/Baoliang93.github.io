@@ -54,7 +54,7 @@ My research interest includes image/video quality assessment and information for
 - *2011.09 - 2015.06*,  School of Computer and Information, Hefei University of Technology (HFUT).
 
 # 🎖 Honors and Awards
-- [芒果TV - 算法大赛](https://challenge.ai.mgtv.com/contest/detail/17) Top 10
+- [芒果TV - VQA算法大赛](https://challenge.ai.mgtv.com/contest/detail/17) Top 10
 - *2021.07*  Outstanding Academic Performance Award (CityU)
 - *2021.07*  Research Tuition Scholarship (CityU)
 - *2018.06*  Best Graduation Thesis (XDU)
