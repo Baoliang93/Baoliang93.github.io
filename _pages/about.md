@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher with the Department of Computer Science, City University of Hong Kong. 
+I am currently a postdoctoral researcher with the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong. 
 
-I received my PhD (May, 2022) in Computer Science from City University of Hong Kong supervised by Dr. Shiqi Wang. I received the M.S. degree  in Intelligent Information Processing, Xidian University under the supervision of Prof. Cheolkon Jung (Korea), in 2018.  and B.S. degree in Electronic information science and technology, Hefei University of Technology, June 2015. 
-My research interest includes image/video quality assessment and information forensics and security. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my PhD (May, 2022) in Computer Science from City University of Hong Kong supervised by [Dr. Shiqi Wang (王诗淇)](https://www.cs.cityu.edu.hk/~shiqwang/). I received the M.S. degree in Intelligent Information Processing, Xidian University under the supervision of [Prof. Cheolkon Jung (Korea)](https://see.xidian.edu.cn/media/), in 2018, and B.S. degree in Electronic information science and technology, [Hefei University of Technology](https://www.hfut.edu.cn/), June 2015. 
+
+My research interest includes image/video quality assessment and information forensics and security. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -50,10 +50,6 @@ My research interest includes image/video quality assessment and information for
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
