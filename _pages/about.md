@@ -25,7 +25,7 @@ My research interest includes image/video quality assessment and information for
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/9896907) for user-generated video quality assessment was accepted in TCSVT ([code](https://github.com/h4nwei/STI-VQA)). 
+- *2022.09*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/9896907) for user-generated video quality assessment was accepted in TCSVT ([code](https://github.com/h4nwei/STI-VQA)). 
 
 # 📝 Publications 
 - Baoliang  Chen,  Lingyu Zhu, Guo Li, Fangbo Lu, Hongfei Fan, and Shiqi Wang, “Learning generalized spatial-temporal deep feature representation for no-reference video quality assessment,” IEEE Transactions on Circuits and Systems for Video Technology. vol.32, pp.1903-1916, 2022.
