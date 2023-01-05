@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "CHEN Baoliang"
+title                    : "CHEN Baoliang (陈宝亮)"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "Baoliang93/Baoliang93.github.io"
 google_scholar_stats_use_cdn : true
