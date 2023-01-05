@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher with the [Department of Computer Science](https://www.cs.cityu.edu.hk/), City University of Hong Kong. 
 
-I received my PhD (May, 2022) in Computer Science from City University of Hong Kong supervised by [Dr. Shiqi Wang (王诗淇)](https://www.cs.cityu.edu.hk/~shiqwang/). I received my M.S. degree in Intelligent Information Processing, Xidian University under the supervision of [Prof. Cheolkon Jung (Korea)](https://see.xidian.edu.cn/media/), in 2018, and B.S. degree in Electronic information science and technology, [Hefei University of Technology](https://www.hfut.edu.cn/), June 2015. 
+I received my PhD (June, 2022) in Computer Science from City University of Hong Kong supervised by [Dr. Shiqi Wang (王诗淇)](https://www.cs.cityu.edu.hk/~shiqwang/). I received my M.S. degree in Intelligent Information Processing, Xidian University under the supervision of [Prof. Cheolkon Jung (Korea)](https://see.xidian.edu.cn/media/), in 2018, and B.S. degree in Electronic information science and technology, [Hefei University of Technology](https://www.hfut.edu.cn/), June 2015. 
 
 My research interest includes image/video quality assessment and information forensics and security. 
 
