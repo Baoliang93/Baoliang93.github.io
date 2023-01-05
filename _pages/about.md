@@ -49,9 +49,9 @@ My research interest includes image/video quality assessment and information for
 - Zhaopeng Feng, Keyang Zhang, Shuyue Jia, Baoliang Chen and Shiqi Wang: "Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model." Electronics letters, 2022.
 
 # 📖 Educations
-- *2019.07 - 2022.06*, Computer Science. City University of Hong Kong (CityU). 
-- *2015.09 - 2018.06*, Electronic Engineering. University of Xidian (XDU). 
-- *2011.09 - 2015.06*, Computer and Information. Hefei University of Technology (HFUT).
+- *2019.07 - 2022.06*,  Department of Computer Science, City University of Hong Kong (CityU). 
+- *2015.09 - 2018.06*,  School of Electronic Engineering, University of Xidian (XDU). 
+- *2011.09 - 2015.06*,  School of Computer and Information, Hefei University of Technology (HFUT).
 
 # 🎖 Honors and Awards
 - *2015.06*  Outstanding Graduation Thesis (HFUT)
