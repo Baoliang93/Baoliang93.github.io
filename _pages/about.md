@@ -27,8 +27,8 @@ My research interest includes image/video quality assessment and information for
 # 🔥 News
 - One paper accepted by ICCV2023. Fu-Zhao Ou, Baoliang Chen, Chongyi Li,  Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment". [code](https://github.com/oufuzhao/EQBM)
 - One paper accepted by TMM2023. Yu Tian, Baoliang Chen, Shiqi Wang, and Sam Kwong, "Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?" [code](https://github.com/ytian73/FLRE)
-# 📝 Publications (*: co-first authors)
--  **Baoliang Chen<sup>*</sup>**, Lingyu Zhu<sup>*</sup>, Hanwei Zhu, Wen Yang, Linqi Song, and Shiqi Wang, "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization of Low-Light Image Enhancement", IEEE Transactions on Multimedia, 2023. [code(https://github.com/Baoliang93/IACA_For_Lowlight_IQA)
+# 📝 Publications (*: Co-first authors)
+-  **Baoliang Chen<sup>*</sup>**, Lingyu Zhu<sup>*</sup>, Hanwei Zhu, Wen Yang, Linqi Song, and Shiqi Wang, "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization of Low-Light Image Enhancement", IEEE Transactions on Multimedia, 2023. [code](https://github.com/Baoliang93/IACA_For_Lowlight_IQA)
 -  Hanwei Zhu, **Baoliang Chen**, Lingyu Zhu, and Shiqi Wang, “Learning spatiotemporal interactions for user-generated video quality assessment”, vol. 33, no. 3, pp. 1031–1042, 2022. [code](https://github.com/h4nwei/STI-VQA)
 - **Baoliang Chen**, Lingyu Zhu, Chenqi Kong, Hanwei Zhu, Shiqi Wang, and Zhu Li, “[No-reference image quality assessment by hallucinating pristine features](https://ieeexplore.ieee.org/document/9894272),” IEEE Transactions on Image Process, vol. 31, pp. 6139-6151, 2022. [code](https://github.com/Baoliang93/FPR)
 - **Baoliang Chen**, Lingyu Zhu, Guo Li, Fangbo Lu, Hongfei Fan, and Shiqi Wang, “[Learning generalized spatial-temporal deep feature representation for no-reference video quality assessment](https://ieeexplore.ieee.org/document/9452150),” IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, pp. 1903-1916, 2022. [code](https://github.com/Baoliang93/GSTVQA)
@@ -47,7 +47,7 @@ My research interest includes image/video quality assessment and information for
 - Chenqi Kong, **Baoliang Chen**, Shurun Wang, Haoliang Li, Peilin Chen, and Shiqi Wang, “Appearance matters, so does audio: Revealing the hidden face via cross-modality transfer,” IEEE Transactions on Circuits and Systems for Video Technology, vo. 32. no. 1, pp. 423-436, 2021.
 - Pingping Zhang, Meng Wang, **Baoliang Chen**, Rongqun Lin, Xu Wang, Shiqi Wang, and Sam Kwong, “Learning-based Compression for Noisy Images in the Wild,” IEEE Transactions on Circuits and Systems for Video Technology, 2022.
 - Lingyu Zhu, Wenhan Yang, **Baoliang Chen**, Fangbo Lu, and Shiqi Wang, “Enlightening low-light images with dynamic guidance for context enrichment,” IEEE Transactions on Circuits and Systems for Video Technology, 2022. [code](https://github.com/lingyzhu0101/GEMSC)
-- Zhaopeng Feng, Keyang Zhang, Shuyue Jia, **Baoliang Chen**, and Shiqi Wang, “Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model,” Electronics Letters, 2022. [code](https://github.com/fzp0424/MonotonicIQA)
+- Zhaopeng Feng, Keyang Zhang, Shuyue Jia, **Baoliang Chen**, and Shiqi Wang, “[Learning from Mixed Datasets: A Monotonic Image Quality Assessment Model](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12698),” Electronics Letters, 2022. [code](https://github.com/fzp0424/MonotonicIQA)
 
 
 # 📖 Educations
