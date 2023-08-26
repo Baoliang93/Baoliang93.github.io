@@ -25,8 +25,8 @@ My research interest includes image/video quality assessment and information for
 
 
 # 🔥 News
-- One paper accepted by ICCV2023. Fu-Zhao Ou, Baoliang Chen, Chongyi Li,  Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment". [code](https://github.com/oufuzhao/EQBM)
-- One paper accepted by TMM2023. Yu Tian, Baoliang Chen, Shiqi Wang, and Sam Kwong, "Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?" [code](https://github.com/ytian73/FLRE)
+- One paper accepted by ICCV2023. Fu-Zhao Ou, **Baoliang Chen**, Chongyi Li,  Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment". [code](https://github.com/oufuzhao/EQBM)
+- One paper accepted by TMM2023. Yu Tian, **Baoliang Chen**, Shiqi Wang, and Sam Kwong, "Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?" [code](https://github.com/ytian73/FLRE)
 # 📝 Publications (*: Co-first authors)
 -  **Baoliang Chen<sup>*</sup>**, Lingyu Zhu<sup>*</sup>, Hanwei Zhu, Wen Yang, Linqi Song, and Shiqi Wang, "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization of Low-Light Image Enhancement", IEEE Transactions on Multimedia, 2023. [code](https://github.com/Baoliang93/IACA_For_Lowlight_IQA)
 -  Hanwei Zhu, **Baoliang Chen**, Lingyu Zhu, and Shiqi Wang, “Learning spatiotemporal interactions for user-generated video quality assessment”, vol. 33, no. 3, pp. 1031–1042, 2022. [code](https://github.com/h4nwei/STI-VQA)
@@ -42,7 +42,7 @@ My research interest includes image/video quality assessment and information for
 - Guo Li, **Baoliang Chen**, Lingyu Zhu, Qinwen He, Hongfei Fan, and Shiqi Wang, “PUGCQ: A large scale  dataset for quality assessment of professional user-generated content,”  ACM International Conference on Multimedia (ACM MM 2021). [code](https://github.com/wlkdb/pugcq_create)
 - Chenqi Kong, **Baoliang Chen**, Shurun Wang, Haoliang Li, Peilin Chen, and Shiqi Wang, “Appearance matters, so does audio: Revealing the hidden face via cross-modality transfer,” IEEE Transactions on Circuits and Systems for Video Technology, vo. 32. no. 1, pp. 423-436, 2021.
 - **Baoliang Chen**, Wenhan Yang, Haoliang  Li, Shiqi  Wang, and Sam Kwong, “Camera invariant feature  learning for generalized face anti-spoofing,” IEEE Transactions on Information Forensics and Security, vol. 16, pp. 2477–2492, 2021.
-- **Baoliang Chen**, Haoliang Li, Hongfei Fan, and Shiqi  Wang, “No-reference screen content image quality  assessment with unsupervised domain adaptation,” IEEE Transactions on Image Processing, vol. 30, pp. 5463–5476, 2021. [code]([https://github.com/Baoliang93/GSTVQA](https://mega.nz/folder/2LxFAZjQ#ZneNvMSKxCbLf0eEgPXfNw))
+- **Baoliang Chen**, Haoliang Li, Hongfei Fan, and Shiqi  Wang, “No-reference screen content image quality  assessment with unsupervised domain adaptation,” IEEE Transactions on Image Processing, vol. 30, pp. 5463–5476, 2021. [code](https://mega.nz/folder/2LxFAZjQ#ZneNvMSKxCbLf0eEgPXfNw))
 - **Baoliang Chen**, Cheolkon Jung, and Zhendong Zhang, “Variational fusion of time-of-flight and stereo data for depth estimation using edge-selective joint filtering,” IEEE Transactions on Multimedia, vol. 20, pp. 2882-2890, 2021.
 - **Baoliang Chen**,  Wenhan Yang,  and  Shiqi Wang, “Face anti-spoofing by fusing high and low frequency  features for advanced generalization capability,” IEEE Conference  on  Multimedia  Information  Processing  and  Retrieval (MIPR 2020).
 - **Baoliang Chen** and Cheolkon Jung, “Single depth image superresolution using convolutional neural networks,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
