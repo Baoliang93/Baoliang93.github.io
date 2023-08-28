@@ -25,7 +25,7 @@ My research interest includes image/video quality assessment and information for
 
 
 # 🔥 News
-- One paper accepted by ICCV2023. Fu-Zhao Ou, **Baoliang Chen**, Chongyi Li,  Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment". [code](https://github.com/oufuzhao/EQBM)
+- One paper accepted by ICCV2023. Fu-Zhao Ou, **Baoliang Chen**, Chongyi Li,  Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment". [code](https://github.com/oufuzhao/EQBM){: style="color: blue"}
 - One paper accepted by TMM2023. Yu Tian, **Baoliang Chen**, Shiqi Wang, and Sam Kwong, "Towards Thousands to One Reference: Can We Trust the Reference Image for Quality Assessment?" [code](https://github.com/ytian73/FLRE)
 # 📝 Publications (*: Co-first authors)
 -  **Baoliang Chen<sup>*</sup>**, Lingyu Zhu<sup>*</sup>, Hanwei Zhu, Wen Yang, Linqi Song, and Shiqi Wang, "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization of Low-Light Image Enhancement", IEEE Transactions on Multimedia, 2023. [code](https://github.com/Baoliang93/IACA_For_Lowlight_IQA)
