@@ -63,5 +63,4 @@ My research interest includes image/video quality assessment and information for
 - *2017.09*  Outstanding Graduate Student (XDU)
 - *2015.06*  Outstanding Graduation Thesis (HFUT)
 
-# 💻 Internships
-- [PengCheng Lab](https://www.pcl.ac.cn/), Shenzhen, China.
+
